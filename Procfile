@@ -1,0 +1,1 @@
+web: gunicorn mayadata_rec.wsgi
